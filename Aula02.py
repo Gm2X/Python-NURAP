@@ -1,0 +1,1 @@
+print ('Você não precisa de outra laranja para completar sua metade, você já é completa e só precisa de alguém que te chupe bem') 
